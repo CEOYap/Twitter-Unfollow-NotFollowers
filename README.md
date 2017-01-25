@@ -1,8 +1,9 @@
 # Twitter-Unfollow-NotFollowers
 Javascript for unfollowing users who are not following you
 
-// 1. Go to https://twitter.com/following.
-// 2 Open your web-browser console and run the following codes
+1. Go to https://twitter.com/following.
+
+2. Open your web-browser console and run the following codes
 
 #Autoscroll
 ```javascript
