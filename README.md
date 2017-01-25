@@ -1,4 +1,4 @@
-# Twitter-Unfollow-NotFollowers
+# Twitter Unfollow users not following you script
 Javascript for unfollowing users who are not following you
 
 1. Go to https://twitter.com/following.
